@@ -5,7 +5,7 @@ import { Chat } from "@/types/chat";
 const chatData: Chat[] = [
   {
     avatar: "/images/user/user-01.png",
-    name: "Devid Heilo",
+    name: "Rannie Turla",
     text: "How are you?",
     time: 12,
     textCount: 3,
@@ -36,7 +36,7 @@ const chatData: Chat[] = [
     dot: 6,
   },
   {
-    avatar: "/images/user/user-01.png",
+    avatar: "/images/user/user-06.png",
     name: "Jhon Doe",
     text: "How are you?",
     time: 32,

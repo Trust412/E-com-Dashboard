@@ -64,8 +64,8 @@ const Settings = () => {
                           type="text"
                           name="fullName"
                           id="fullName"
-                          placeholder="Devid Jhon"
-                          defaultValue="Devid Jhon"
+                          placeholder="Rannie Turla"
+                          defaultValue="Rannie Turla"
                         />
                       </div>
                     </div>
@@ -82,8 +82,8 @@ const Settings = () => {
                         type="text"
                         name="phoneNumber"
                         id="phoneNumber"
-                        placeholder="+990 3343 7865"
-                        defaultValue="+990 3343 7865"
+                        placeholder="+63 961 497 7348"
+                        defaultValue="+63 961 497 7348"
                       />
                     </div>
                   </div>
@@ -126,8 +126,8 @@ const Settings = () => {
                         type="email"
                         name="emailAddress"
                         id="emailAddress"
-                        placeholder="devidjond45@gmail.com"
-                        defaultValue="devidjond45@gmail.com"
+                        placeholder="rannieturla727@gmail.com"
+                        defaultValue="rannieturla727@gmail.com"
                       />
                     </div>
                   </div>
@@ -144,8 +144,8 @@ const Settings = () => {
                       type="text"
                       name="Username"
                       id="Username"
-                      placeholder="devidjhon24"
-                      defaultValue="devidjhon24"
+                      placeholder="trust412"
+                      defaultValue="trust412"
                     />
                   </div>
 
@@ -229,7 +229,7 @@ const Settings = () => {
                   <div className="mb-4 flex items-center gap-3">
                     <div className="h-14 w-14 rounded-full">
                       <Image
-                        src={"/images/user/user-03.png"}
+                        src={"/images/user/user-01.png"}
                         width={55}
                         height={55}
                         alt="User"
